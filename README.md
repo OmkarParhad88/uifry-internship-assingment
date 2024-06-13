@@ -4,3 +4,7 @@ and and also building this pages in react js with using framer-motion and react-
 For tha complete landing page i need a more time for build this pages in reactjs and  tailwind css framework
 
 thank you for give me this assignment
+
+
+this is the react demo -https://github.com/OmkarParhad88/uifry-assingment-react
+deploy github page - https://omkarparhad88.github.io/uifry-assingment-react/
