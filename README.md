@@ -6,6 +6,6 @@ deploy - https://omkarparhad88.github.io/uifry-internship-assingment/
 
 thank you for give me this assignment
 
-
 this is the react demo -https://github.com/OmkarParhad88/uifry-assingment-react
+
 deploy github page - https://omkarparhad88.github.io/uifry-assingment-react/
